@@ -16,8 +16,8 @@ The repository is organized as follows:
 │   ├── design2.ai       # Adobe Illustrator source file
 │
 ├── exports/
-│   ├── design1.png      # Exported preview of design1
-│   ├── design2.png      # Exported preview of design2
+│   ├── design1.jpg      # Exported preview of design1
+│   ├── design2.jpg      # Exported preview of design2
 │
 └── README.md            # Project documentation
 ```
@@ -27,7 +27,7 @@ The repository is organized as follows:
 ## ✨ Features
 
 - **Source Files:** Includes `.ai` files for all designs, which can be opened and edited in Adobe Illustrator.
-- **Exported Previews:** Provides `.png` previews of the designs for easy viewing.
+- **Exported Previews:** Provides `.jpg` previews of the designs for easy viewing.
 - **Creative Freedom:** Each project showcases unique design elements and concepts.
 
 ---
@@ -36,7 +36,7 @@ The repository is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-designs.git
+   git clone https://github.com/AmenZemzem68/personal-designs.git
    ```
 
 2. Explore the `designs/` folder to access Adobe Illustrator files.
@@ -46,7 +46,7 @@ The repository is organized as follows:
 
 ## 💡 Inspiration
 
-These designs are inspired by my exploration of various themes and ideas. They represent my growth and journey as a designer.
+Although I am a developer at heart, I find joy in exploring design as a creative pastime. These designs are inspired by my curiosity and exploration of various themes and ideas. They represent my growth and journey as a designer, blending my technical background with artistic expression.
 
 ---
 
@@ -58,9 +58,9 @@ All designs in this repository are **copyrighted** and are for personal or portf
 
 ## 🌟 Connect with Me
 
-- **Portfolio:** [Your Portfolio Link](https://yourportfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Portfolio:** [Your Portfolio Link](https://amen-zemzem-portfolio.vercel.app/)
+- **Email:** [your.email@example.com](mailto:zemzemamen68@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/amenzemzem)
 
 ---
 
