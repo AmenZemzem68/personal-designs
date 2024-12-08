@@ -58,9 +58,9 @@ All designs in this repository are **copyrighted** and are for personal or portf
 
 ## 🌟 Connect with Me
 
-- **Portfolio:** [Your Portfolio Link](https://amen-zemzem-portfolio.vercel.app/)
-- **Email:** [your.email@example.com](mailto:zemzemamen68@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/amenzemzem)
+- **Portfolio:** [https://amen-zemzem-portfolio.vercel.app/](https://amen-zemzem-portfolio.vercel.app/)
+- **Email:** [zemzemamen68@gmail.com](mailto:zemzemamen68@gmail.com)
+- **LinkedIn:** [amenzemzem](https://linkedin.com/in/amenzemzem)
 
 ---
 
